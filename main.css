@@ -1,0 +1,8 @@
+#container {
+    widows: 80%;
+    margin: auto;
+}
+
+#content {
+    display: flex;
+}
